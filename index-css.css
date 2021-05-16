@@ -4,6 +4,6 @@ body{
 
 #First-Heading{
     font-family: calibri;
-    color: black;
-    border: 10px whitesmoke;
+    color:whitesmoke;
+    text-shadow: 2px 2px 4px black;
 }
